@@ -1,0 +1,22 @@
+.registration {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.registration>div>input {
+	outline: none;
+	border-radius: 1rem;
+	padding: .5rem;
+	margin: .5rem 0;
+}
+
+.btn-registration {
+	color: green;
+	font-weight: 600;
+	/* width: 6rem; */
+	padding: .5rem;
+	border-radius: .25rem;
+	border: 1px solid #000;
+	margin-top: 1rem;
+}

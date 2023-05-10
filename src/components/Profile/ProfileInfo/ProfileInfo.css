@@ -1,0 +1,26 @@
+.user__profile {}
+
+.user__name {
+
+	font-size: 22px;
+	font-weight: 600;
+	padding-top: .5rem;
+}
+
+.user__status {
+
+	font-style: italic;
+	font-size: 18px;
+}
+
+
+.user__img img {
+	height: 100%;
+	width: 75%;
+	border-radius: 50%;
+}
+
+.user__info {
+	margin-top: 3rem;
+
+}
